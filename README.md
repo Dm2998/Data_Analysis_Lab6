@@ -8,5 +8,6 @@ Analyze data to support reasoning,
 Confirm hypotheses,
 Communicate ideas to others,
 Build a story from your data,
-![image](https://github.com/Dm2998/Data_Analysis_Lab6/assets/114578666/93e594ac-e5b6-4d65-84ac-729d4c868357)
+![image](https://github.com/Dm2998/Data_Analysis_Lab6/assets/114578666/173d3940-2970-41c4-b95f-e4cdaf5365de)
+
 <br>
