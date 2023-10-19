@@ -8,7 +8,8 @@ Analyze data to support reasoning,
 Confirm hypotheses,
 Communicate ideas to others,
 Build a story from your data,
-![Image Alt Text](https://raw.githubusercontent.com/YourUsername/YourRepositoryName/branch/path/to/your/image.png)
+
+![image](https://github.com/Dm2998/Data_Analysis_Lab6/assets/114578666/052d60d7-4425-4ecd-88ec-a8ba9679bfa7)
 
 
 <br>
